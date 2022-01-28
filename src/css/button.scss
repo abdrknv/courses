@@ -1,0 +1,31 @@
+.button{
+  background: linear-gradient(55.95deg, #FF3F3A 0%, #F75E05 100%);
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 52px;
+  letter-spacing: 0.5px;
+  color: #FFFFFF;
+  cursor: pointer;
+  border: none;
+
+}
+.button-white{
+  border-radius: 4px;
+
+  border: 1px solid #FF3F3A;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 52px;
+  letter-spacing: 0.5px;
+  color: #FF3F3A;
+  background: transparent;
+  transition: .5s ;
+  &:hover{
+    transition: .5s ;
+    background: #FF3F3A;
+    color: white;
+    cursor: pointer;
+  }
+
+}

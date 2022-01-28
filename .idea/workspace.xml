@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="579f5340-fc9b-466e-ba86-e868844d8b0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../course\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Sass File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23HOBuy1Ors93phOSl20dPhqFVB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spk" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\courses" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\createx" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\home" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\libs\lato" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\benefits" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\courses" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\5\courses" />
+      <recent name="C:\Users\Acer\Desktop\it ran\course\src\image\4" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="579f5340-fc9b-466e-ba86-e868844d8b0b" name="Default Changelist" comment="" />
+      <created>1641387413809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641387413809</updated>
+      <workItem from="1641387417427" duration="4958000" />
+      <workItem from="1641899658263" duration="3327000" />
+      <workItem from="1642069087742" duration="7096000" />
+      <workItem from="1642096909731" duration="9592000" />
+      <workItem from="1642140418827" duration="3058000" />
+      <workItem from="1642166827149" duration="740000" />
+      <workItem from="1642501497468" duration="64000" />
+      <workItem from="1642501776039" duration="2150000" />
+      <workItem from="1642516935278" duration="642000" />
+      <workItem from="1642518646885" duration="28000" />
+      <workItem from="1642589227970" duration="2203000" />
+      <workItem from="1642597168430" duration="1293000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1642073938749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1642073938749" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1642518673018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642518673018" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1642076348581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1642076348581" />
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1642075624965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="432" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642075624965" />
+  </component>
+</project>

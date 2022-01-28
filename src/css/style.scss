@@ -1,0 +1,42 @@
+@import url(../libs/lato/stylesheet.css);
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  font-family: lato, sans-serif;
+  font-style: normal;
+}
+.container{
+  max-width:1260px;
+  padding: 0 15px;
+  width: 100%;
+  margin: 0 auto;
+}
+.text{
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #1E212C;
+}
+.title{
+  font-weight: 900;
+  font-size: 46px;
+  line-height: 130%;
+  color: #1E212C;
+  margin-top:  8px;
+}
+
+
+@import "button";
+@import "home";
+@import "createx";
+@import "courses";
+@import "benefits";
+@import "header";
+
+
+
